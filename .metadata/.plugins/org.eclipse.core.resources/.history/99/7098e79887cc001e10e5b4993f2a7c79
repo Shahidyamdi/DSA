@@ -1,0 +1,12 @@
+package com.dsa.linkedlist;
+
+public class test {
+	public static void main(String[] args) {
+		linkedlist linked = new linkedlist();
+		linked.create(1);
+		linked.create(2);
+		linked.create(3);
+		linked.traverse();
+	}
+
+}

@@ -1,0 +1,24 @@
+package com.dsa.linkedlist;
+
+public class linkedlist {
+	private ListNode head;
+	
+	public  void create(int data) {
+		ListNode newNode = new ListNode();
+		newNode
+		newNode.setNext(null);
+		
+		if(head == null) {
+			head = newNode;
+			
+		}
+		else {
+			ListNode temp = head;
+			while(temp.getNext()!=null) {
+			temp =	temp.getNext();
+			}
+			temp.setNext(newNode);
+		}
+	}
+
+}

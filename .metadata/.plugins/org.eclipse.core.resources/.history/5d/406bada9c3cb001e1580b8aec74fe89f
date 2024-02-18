@@ -1,0 +1,19 @@
+package com.dsa.linkedlist;
+
+public class ListNode {
+	private int node;
+	public int getNode() {
+		return node;
+	}
+	public void setNode(int node) {
+		this.node = node;
+	}
+	public ListNode getNext() {
+		return next;
+	}
+	public void setNext(ListNode next) {
+		this.next = next;
+	}
+	private ListNode next;
+
+}
