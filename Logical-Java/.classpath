@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Arrays_challenges/src"/>
+	<classpathentry kind="src" path="Bank/src"/>
+	<classpathentry kind="src" path="Basics program/src"/>
+	<classpathentry kind="src" path="DSA/src"/>
+	<classpathentry kind="src" path="INTERVIEW/src"/>
+	<classpathentry kind="src" path="JAVA-8-Features/src"/>
+	<classpathentry kind="src" path="Java8_Features/src"/>
+	<classpathentry kind="src" path="Logics/Arrays_challenges/src"/>
+	<classpathentry kind="src" path="Logics/Basics program/src"/>
+	<classpathentry kind="src" path="Logics/INTERVIEW/src"/>
+	<classpathentry excluding="com/youtubr/trainning/" kind="src" path="Logics/JAVA_PROGRAM/Javaprogram/src"/>
+	<classpathentry kind="src" path="Logics/JAVA_PROGRAM/Javaprogram/src/com/youtubr/trainning"/>
+	<classpathentry kind="src" path="Logics/JAVA-8-Features/src"/>
+	<classpathentry kind="src" path="Logics/Java8_Features/src"/>
+	<classpathentry kind="src" path="Logics/Logics/Arrays_challenges/src"/>
+	<classpathentry kind="src" path="Logics/Logics/Basics program/src"/>
+	<classpathentry kind="src" path="Logics/Logics/INTERVIEW/src"/>
+	<classpathentry kind="src" path="Logics/Logics/JAVA_PROGRAM/Javaprogram/src"/>
+	<classpathentry kind="src" path="Logics/Logics/JAVA-8-Features/src"/>
+	<classpathentry kind="src" path="Logics/Logics/Java8_Features/src"/>
+	<classpathentry kind="src" path="Logics/Logics/Logics/JAVA_PROGRAM/Javaprogram/src"/>
+	<classpathentry kind="src" path="Logics/Logics/Logics/src"/>
+	<classpathentry kind="src" path="Logics/Logics/Ratan-assignments/src"/>
+	<classpathentry kind="src" path="Logics/Logics/src"/>
+	<classpathentry kind="src" path="Logics/Logics/String_challenges/src"/>
+	<classpathentry kind="src" path="Logics/Ratan-assignments/src"/>
+	<classpathentry kind="src" path="Logics/src"/>
+	<classpathentry kind="src" path="Logics/String_challenges/src"/>
+	<classpathentry kind="src" path="Patterns/src"/>
+	<classpathentry kind="src" path="Ratan-assignments/src"/>
+	<classpathentry kind="src" path="String_challenges/src"/>
+	<classpathentry kind="output" path="Arrays_challenges/bin"/>
+</classpath>
